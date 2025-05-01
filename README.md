@@ -1,1 +1,2 @@
 # CPU-Scheduling-Simulator
+The Intelligent CPU Scheduler Simulator is a dynamic and interactive tool designed to model and analyze various CPU scheduling algorithms used in operating systems. Scheduling plays a pivotal role in process management, directly impacting system performance, resource utilization, and user experience. This simulator aims to provide an intuitive and educational platform that demonstrates how different scheduling strategies affect process execution and system efficiency.
